@@ -1,0 +1,16 @@
+*env/
+myenv/
+venv/
+__pycache__/
+*.db
+*.pkl
+.env
+.venv/
+.venv311/
+myenv/
+__pycache__/
+*.pyc
+.env
+*.db
+*.sqlite
+*.sqlite3
